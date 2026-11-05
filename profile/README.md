@@ -59,3 +59,9 @@ By connecting open-source developers, particularly BitDevs, directly with human 
 Whether you are an open-source developer, a human rights organisation, or a mentor interested in our programmes, we would love to collaborate.
 
 Contact us: info@rightsdevs.org
+
+---
+
+## 📜 License
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
